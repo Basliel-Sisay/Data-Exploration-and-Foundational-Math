@@ -1,12 +1,23 @@
 # Data Exploration and Foundational Math
 
-An end-to-end exploratory data analysis and foundational machine learning laboratory project analyzing student academic performance metrics. This repository demonstrates essential data preprocessing workflows, descriptive statistics, exploratory visualization, correlation analysis, linear algebra principles and feature scaling techniques using Python.
+ <table>
+    <tr>
+      <th>Name</th>
+      <th>ID</th>
+    </tr>
+    <tr>
+      <td>Basliel Sisay</td>
+      <td>UGR/3563/16</td>
+    </tr>
+  </table>
+
+An exploratory data analysis and foundational machine learning laboratory project analyzing student academic performance metrics. This repository demonstrates essential data preprocessing workflows, descriptive statistics, exploratory visualization, correlation analysis, linear algebra principles and feature scaling techniques using Python.
 
 ---
 
 ## Project Overview
 
-The objective of this project is to take a raw dataset with real-world imperfections such as missing inputs, non-physical values and statistical outliers, and transform it into an analysis-ready state for predictive modeling.
+The objective of this project is to take a raw dataset with real world imperfections such as missing inputs, non-physical values and statistical outliers, and transform it into an analysis ready state for predictive modelling.
 
 ### Core Modules and Methodology
 - **Part A — Inspect and Clean**: Inspect feature shapes and data types. Identify and remove extreme outliers such as impossible study hours, flag invalid entries such as negative attendance and evaluate data distribution to select appropriate imputation techniques between mean and median.
